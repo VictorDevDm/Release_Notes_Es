@@ -1,4 +1,6 @@
 * [RELEASE NOTES](manual-del-administrador/release-notes/README.md)
+  * [Release Notes \<NomeProduto> V 19.0.0](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-19.0.0/README.md)
+    * [Control De Captura De Pantalla En El Perfil De Trabajo](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-19.0.0/Control-De-Captura-De-Pantalla-En-El-Perfil-De-Trabajo.md)
   * [Release Notes \<NomeProduto> V 17.0.0](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-17.0.0/README.md)
     * [Reinicio Automático De Servicios De La App](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-17.0.0/Reinicio-Automático-De-Servicios-De-La-App.md)
     * [Migración De Políticas De Standard A Enterprise](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-17.0.0/Migración-De-Políticas-De-Standard-A-Enterprise.md)
