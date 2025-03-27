@@ -6,3 +6,7 @@
 ### **Novedades**
 
 1. [Notificación de Desconexión del Dispositivo](Notificación-De-Desconexión-Del-Dispositivo.md)
+
+### **Correccíon de Errores**
+
+1. [Desactivación del Envío de Ubicación](Desactivación-Del-Envío-De-Ubicación.md)
