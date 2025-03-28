@@ -7,6 +7,7 @@
     * [Creación De Multi Empresas En La Integración Vivo](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.0/Creación-De-Multi-Empresas-En-La-Integración-Vivo.md)
     * [Gestión De Múltiples Empresas En La Integración Telcel](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.0/Gestión-De-Múltiples-Empresas-En-La-Integración-Telcel.md)
     * [Creación De Multi Empresas Para Administradores](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.0/Creación-De-Multi-Empresas-Para-Administradores.md)
+    * [Acceso Multiempresas En El Portal](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.0/Acceso-Multiempresas-En-El-Portal.md)
   * [Release Notes \<NomeProduto> V 19.0.0](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-19.0.0/README.md)
     * [Control De Captura De Pantalla En El Perfil De Trabajo](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-19.0.0/Control-De-Captura-De-Pantalla-En-El-Perfil-De-Trabajo.md)
   * [Release Notes \<NomeProduto> V 17.0.0](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-17.0.0/README.md)
