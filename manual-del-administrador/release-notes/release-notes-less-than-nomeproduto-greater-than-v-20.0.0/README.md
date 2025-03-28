@@ -7,6 +7,7 @@
 
 1. [Bloqueo de Apps por Velocidad en el Portal](Bloqueo-De-Apps-Por-Velocidad-En-El-Portal.md)
 
+2. [Acceso Multiempresas en el Portal](Acceso-Multiempresas-En-El-Portal.md)
 ### **Mejoras**
 
 1. [Total de Licencias en el Portal con Licencias Híbridas](Total-De-Licencias-En-El-Portal-Con-Licencias-Híbridas.md)
