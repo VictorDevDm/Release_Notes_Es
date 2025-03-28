@@ -9,6 +9,7 @@
 
 2. [Acceso Multiempresas en el Portal](Acceso-Multiempresas-En-El-Portal.md)
 3. [Auditoría de Acciones en Multiempresas en el Portal](Auditoría-De-Acciones-En-Multiempresas-En-El-Portal.md)
+4. [Creación de Múltiples Empresas en el Portal del Operador](Creación-De-Múltiples-Empresas-En-El-Portal-Del-Operador.md)
 ### **Mejoras**
 
 1. [Total de Licencias en el Portal con Licencias Híbridas](Total-De-Licencias-En-El-Portal-Con-Licencias-Híbridas.md)
