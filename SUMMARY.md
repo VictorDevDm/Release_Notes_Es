@@ -4,6 +4,7 @@
     * [Total De Licencias En El Portal Con Licencias Híbridas](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.0/Total-De-Licencias-En-El-Portal-Con-Licencias-Híbridas.md)
     * [Visualización De Licencias No Instaladas En El Portal](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.0/Visualización-De-Licencias-No-Instaladas-En-El-Portal.md)
     * [Gestión De Múltiples Empresas En La Integración Claro Bundle](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.0/Gestión-De-Múltiples-Empresas-En-La-Integración-Claro-Bundle.md)
+    * [Creación De Multi Empresas En La Integración Vivo](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.0/Creación-De-Multi-Empresas-En-La-Integración-Vivo.md)
   * [Release Notes \<NomeProduto> V 19.0.0](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-19.0.0/README.md)
     * [Control De Captura De Pantalla En El Perfil De Trabajo](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-19.0.0/Control-De-Captura-De-Pantalla-En-El-Perfil-De-Trabajo.md)
   * [Release Notes \<NomeProduto> V 17.0.0](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-17.0.0/README.md)
