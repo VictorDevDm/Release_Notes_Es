@@ -1,4 +1,6 @@
 * [RELEASE NOTES](manual-del-administrador/release-notes/README.md)
+  * [Release Notes \<NomeProduto> V 20.0.1](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.1/README.md)
+    * [Bloqueo De Apps Por Velocidad](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.1/Bloqueo-De-Apps-Por-Velocidad.md)
   * [Release Notes \<NomeProduto> V 20.0.0](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.0/README.md)
     * [Bloqueo De Apps Por Velocidad En El Portal](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.0/Bloqueo-De-Apps-Por-Velocidad-En-El-Portal.md)
     * [Total De Licencias En El Portal Con Licencias Híbridas](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.0/Total-De-Licencias-En-El-Portal-Con-Licencias-Híbridas.md)
