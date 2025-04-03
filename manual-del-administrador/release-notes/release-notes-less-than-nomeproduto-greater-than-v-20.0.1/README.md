@@ -8,6 +8,7 @@
 1. [Bloqueo de Apps por Velocidad](Bloqueo-De-Apps-Por-Velocidad.md)
 
 2. [Acceso Multi-Empresas en el Portal](Acceso-Multi-Empresas-En-El-Portal.md)
+3. [Auditoría de Acciones en Múltiples Empresas](Auditoría-De-Acciones-En-Múltiples-Empresas.md)
 ### **Correccíon de Errores**
 
 1. [Visualización del Total de Licencias en el Portal](Visualización-Del-Total-De-Licencias-En-El-Portal.md)
