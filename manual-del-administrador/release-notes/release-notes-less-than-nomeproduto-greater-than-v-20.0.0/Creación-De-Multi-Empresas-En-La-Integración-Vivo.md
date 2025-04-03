@@ -2,4 +2,4 @@
 
 **ID de la US: US-NPD-8577**
 
-Descripción: En el portal, el operador Vivo puede configurar varias empresas para un único administrador, permitiéndole gestionar todas estas empresas usando solo un inicio de sesión. Cuando se procesa una nueva licencia y no hay ninguna empresa con el CNPJ proporcionado, el sistema automáticamente crea esa empresa y la asocia al usuario ya existente basado en el correo electrónico. Si la empresa ya está registrada, el sistema solo asocia al usuario con la empresa, simplificando así el control y organización de las licencias.
+Descripción: Ahora, en el portal, los administradores pueden gestionar varias empresas con el mismo inicio de sesión a través de la integración Vivo. Cuando se procesa una licencia y no se ajusta a ninguna empresa ya registrada, el sistema crea automáticamente una nueva empresa. Si la empresa ya está registrada, el sistema simplemente asocia al usuario con la empresa existente. Esto facilita considerablemente la gestión de varias empresas en un único lugar para los administradores.
