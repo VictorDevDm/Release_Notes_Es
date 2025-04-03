@@ -6,6 +6,7 @@
     * [Creación De Multi Empresas En La Integración Claro Bundle](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.1/Creación-De-Multi-Empresas-En-La-Integración-Claro-Bundle.md)
     * [Creación De Multi Empresas En La Integración Vivo](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.1/Creación-De-Multi-Empresas-En-La-Integración-Vivo.md)
     * [Creación De Multi Empresas En La Integración Telcel](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.1/Creación-De-Multi-Empresas-En-La-Integración-Telcel.md)
+    * [Creación De Multi Empresas Para Administrador En Claro Colombia](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.1/Creación-De-Multi-Empresas-Para-Administrador-En-Claro-Colombia.md)
   * [Release Notes \<NomeProduto> V 20.0.0](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.0/README.md)
     * [Bloqueo De Apps Por Velocidad En El Portal](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.0/Bloqueo-De-Apps-Por-Velocidad-En-El-Portal.md)
     * [Total De Licencias En El Portal Con Licencias Híbridas](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.0/Total-De-Licencias-En-El-Portal-Con-Licencias-Híbridas.md)
