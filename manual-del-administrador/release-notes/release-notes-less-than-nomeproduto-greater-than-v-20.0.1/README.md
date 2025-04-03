@@ -17,3 +17,4 @@
 1. [Creación de Multi Empresas en la Integración Claro Bundle](Creación-De-Multi-Empresas-En-La-Integración-Claro-Bundle.md)
 2. [Creación de Multi Empresas en la Integración Vivo](Creación-De-Multi-Empresas-En-La-Integración-Vivo.md)
 3. [Creación de Multi Empresas en la Integración Telcel](Creación-De-Multi-Empresas-En-La-Integración-Telcel.md)
+4. [Creación de Multi Empresas para Administrador en Claro Colombia](Creación-De-Multi-Empresas-Para-Administrador-En-Claro-Colombia.md)
