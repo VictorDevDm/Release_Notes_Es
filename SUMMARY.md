@@ -3,6 +3,7 @@
     * [Bloqueo De Apps Por Velocidad](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.1/Bloqueo-De-Apps-Por-Velocidad.md)
     * [Visualización Del Total De Licencias En El Portal](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.1/Visualización-Del-Total-De-Licencias-En-El-Portal.md)
     * [Visión General De Licencias No Instaladas En El Portal](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.1/Visión-General-De-Licencias-No-Instaladas-En-El-Portal.md)
+    * [Creación De Multi Empresas En La Integración Claro Bundle](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.1/Creación-De-Multi-Empresas-En-La-Integración-Claro-Bundle.md)
   * [Release Notes \<NomeProduto> V 20.0.0](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.0/README.md)
     * [Bloqueo De Apps Por Velocidad En El Portal](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.0/Bloqueo-De-Apps-Por-Velocidad-En-El-Portal.md)
     * [Total De Licencias En El Portal Con Licencias Híbridas](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.0/Total-De-Licencias-En-El-Portal-Con-Licencias-Híbridas.md)
