@@ -9,6 +9,7 @@
 
 2. [Acceso Multi-Empresas en el Portal](Acceso-Multi-Empresas-En-El-Portal.md)
 3. [Auditoría de Acciones en Múltiples Empresas](Auditoría-De-Acciones-En-Múltiples-Empresas.md)
+4. [Creación de Multi Empresas en el Portal del Operador](Creación-De-Multi-Empresas-En-El-Portal-Del-Operador.md)
 ### **Correccíon de Errores**
 
 1. [Visualización del Total de Licencias en el Portal](Visualización-Del-Total-De-Licencias-En-El-Portal.md)
